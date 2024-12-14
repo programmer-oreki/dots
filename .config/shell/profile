@@ -1,5 +1,4 @@
 export EDITOR="nvim"
-export TERM="st-256color"
 export BROWSER="qutebrowser"
 
 export XDG_CONFIG_HOME="$HOME/.config"
