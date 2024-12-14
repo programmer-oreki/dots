@@ -1,0 +1,8 @@
+alias vi=nvim
+alias n=neofetch
+alias t=tmux
+alias c="'clear'"
+alias q=exit
+alias s=source
+alias clear="echo 'clear is deprecated and unsupported, please use c instead.'"
+alias ls="ls -trh --color"
