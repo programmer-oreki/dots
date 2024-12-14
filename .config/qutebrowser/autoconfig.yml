@@ -7,13 +7,13 @@
 config_version: 2
 settings:
   colors.webpage.darkmode.enabled:
-    global: false
+    global: true
   colors.webpage.darkmode.policy.images:
     global: never
   content.cookies.accept:
     global: no-3rdparty
   content.cookies.store:
-    global: true
+    global: false
   content.dns_prefetch:
     global: false
   url.searchengines:
